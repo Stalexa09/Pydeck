@@ -4,11 +4,11 @@ print(a.lower())
 
 print(a.upper())
 
-b = "Heyllo!!!!!"
+b = "Hey!!!!!"
 
 print(b.rstrip("!"))
 
-print(b.replace("Heyllo", "Hello"))
+print(b.replace("Hey", "Hello"))
 
 x = "Hey my name is Dan"
 print(x.count("e"))

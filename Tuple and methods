@@ -1,0 +1,10 @@
+a = (2,3,5,"see","hi",5)   #this is a tuple and this is immutable
+
+print(a)
+print(type(a))
+
+x = a.count(5)  #tells the number of occurances of given value
+print(x) 
+
+y = a.index(3)   #tells the index
+print(y)

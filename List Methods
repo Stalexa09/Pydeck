@@ -1,0 +1,21 @@
+Tree = [3,2,4,54,23,212,231,2,734,121,325,213,6744,12]
+
+# Tree.append() #adds a value at the end of list
+
+
+# Tree.sort()  #arranges in accending ordrr
+
+# Tree.reverse()  #reverses the order of the original string
+# print(Tree)
+
+Tree.insert(3,6969)   #inserts a value at any index in the list
+print(Tree)
+
+Tree.pop(6)  #removes a value at any index in the list
+print(Tree)
+
+Tree.remove(325)  #remove a value from list directly
+print(Tree)   
+
+print(type(Tree))
+

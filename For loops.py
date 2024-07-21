@@ -10,7 +10,7 @@ for x in col:
     for o in x:
         print(o)
 
-for k in range(1, 20001):   #indexing in range
+for k in range(1, 20):   #indexing in range
     print(k)             #works on a range
 
 for n in range(9,18, 2):  #the third one in the () is step parameter
